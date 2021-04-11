@@ -1,0 +1,11 @@
+user-service
+	port 9001
+
+	/user/1344
+
+contact service
+	port 9002
+
+
+apigateway
+	port 8999
