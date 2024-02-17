@@ -10,6 +10,7 @@ public class EServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EServerApplication.class, args);
+		System.out.println("x");
 	}
 
 }
